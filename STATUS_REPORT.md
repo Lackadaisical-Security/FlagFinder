@@ -41,7 +41,6 @@ The FlagFinder application is currently running with Nightmare.js control:
 - 🟢 Interactive buttons and real-time analysis
 
 **Current Running Instance:**
-- Terminal ID: 54202d0a-fe85-45b6-aa4f-bcd33c401096
 - Status: ✅ HTML app loaded successfully
 - Screenshot: Will be saved as flagfinder-screenshot.png
 - Access: Electron window should be visible on screen
